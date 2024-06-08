@@ -3,6 +3,7 @@ langchain
 langchain_community
 langchain_openai
 chromadb
+sqlite3 >= 3.35.0
 docx2txt
 pypdf
 streamlit
