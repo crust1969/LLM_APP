@@ -1,7 +1,6 @@
 openai
 langchain
 langchain_community
-langchain_community.embeddings
 langchain_openai
 chromadb
 docx2txt
