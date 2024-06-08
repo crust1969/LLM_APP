@@ -3,8 +3,6 @@ langchain
 langchain_community
 langchain_openai
 chromadb
-chroma; python_version < "3.8"
-sqlite3>=3.35
 docx2txt
 pypdf
 streamlit
